@@ -1,8 +1,8 @@
 ---
-name: Bug - Other
+name: Bug
 about: Other bugs
 title: ''
-labels: Other
+labels: ''
 assignees: ''
 
 ---
@@ -15,6 +15,3 @@ Rough description: FILL IN
 
 ## Basic description
 FILL IN
-
-> [!CAUTION]
-> If not filled right, it will be set as invalid request!
